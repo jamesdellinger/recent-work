@@ -1,2 +1,2 @@
 # Recent Work
-Snippets from projects current in development.
+Sneak previews of current projects.
